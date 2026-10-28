@@ -1,0 +1,21 @@
+[
+  {
+    "id": "witanime",
+    "name": "WitAnime",
+    "version": "1.0.0",
+    "author": "VoltNR7",
+    "description": "WitAnime (witanime.site) — Arabic anime streaming provider with subtitles.",
+    "type": "onlinestream-provider",
+    "language": "typescript",
+    "lang": "ar",
+    "icon": "https://witanime.site/favicon-32.png",
+    "manifestURI": "https://raw.githubusercontent.com/VoltNR7/Seanime-Arabic-Marketplace/main/providers/witanime/manifest.json",
+    "payloadURI": "https://raw.githubusercontent.com/VoltNR7/Seanime-Arabic-Marketplace/main/providers/witanime/main.ts",
+    "website": "https://github.com/VoltNR7/Seanime-Arabic-Marketplace",
+    "flags": "0/0",
+    "flaggedBy": [],
+    "workingTag": true,
+    "brokenTag": false,
+    "deprecatedTag": false
+  }
+]
